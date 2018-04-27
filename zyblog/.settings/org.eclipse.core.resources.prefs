@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/admin/category.jsp=UTF-8
+encoding//WebRoot/admin/index.jsp=UTF-8
+encoding//WebRoot/blog.html=utf-8
+encoding//WebRoot/blog.jsp=UTF-8
+encoding//WebRoot/index.html=utf-8
+encoding//WebRoot/search.html=utf-8
+encoding//WebRoot/\u6587\u6863/\u4E2A\u4EBA\u535A\u5BA2-\u5B9E\u4F53\u5C5E\u6027.xmind=utf-8
+encoding//src/com/zhiyou100/servlet/Login.java=UTF-8
+encoding//src/com/zhiyou100/servlet/SelectBlogServlet.java=UTF-8
+encoding//src/com/zhiyou100/servlet/UpdateUp.java=UTF-8
+encoding//src/com/zhiyou100/util/FileUpload.java=UTF-8
